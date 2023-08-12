@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SD.iml" filepath="$PROJECT_DIR$/SD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine 4 - List/Semaine 4 - List.iml" filepath="$PROJECT_DIR$/Semaine 4 - List/Semaine 4 - List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine10-DICO/Semaine10-DICO.iml" filepath="$PROJECT_DIR$/Semaine10-DICO/Semaine10-DICO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine10-ParcoursArbre/Semaine10-ParcoursArbre.iml" filepath="$PROJECT_DIR$/Semaine10-ParcoursArbre/Semaine10-ParcoursArbre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine11-Recapitulatif/Semaine11-Recapitulatif.iml" filepath="$PROJECT_DIR$/Semaine11-Recapitulatif/Semaine11-Recapitulatif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine12-FileDePriorite/Semaine12-FileDePriorite.iml" filepath="$PROJECT_DIR$/Semaine12-FileDePriorite/Semaine12-FileDePriorite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine3-PileEtFileViaPointeur/Semaine3-PileEtFileViaPointeur.iml" filepath="$PROJECT_DIR$/Semaine3-PileEtFileViaPointeur/Semaine3-PileEtFileViaPointeur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine5-Collections/Semaine5-Collections.iml" filepath="$PROJECT_DIR$/Semaine5-Collections/Semaine5-Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine5-ListeRecursive/Semaine5-ListeRecursive.iml" filepath="$PROJECT_DIR$/Semaine5-ListeRecursive/Semaine5-ListeRecursive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine6-EnsembleViaTableDeHashing/Semaine6-EnsembleViaTableDeHashing.iml" filepath="$PROJECT_DIR$/Semaine6-EnsembleViaTableDeHashing/Semaine6-EnsembleViaTableDeHashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine6-Ensembles/Semaine6-Ensembles.iml" filepath="$PROJECT_DIR$/Semaine6-Ensembles/Semaine6-Ensembles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine7-Map/Semaine7-Map.iml" filepath="$PROJECT_DIR$/Semaine7-Map/Semaine7-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine8-ListeSd/Semaine8-ListeSd.iml" filepath="$PROJECT_DIR$/Semaine8-ListeSd/Semaine8-ListeSd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine9-ABR/Semaine9-ABR.iml" filepath="$PROJECT_DIR$/Semaine9-ABR/Semaine9-ABR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semaine9-AbreBinaire/Semaine9-AbreBinaire.iml" filepath="$PROJECT_DIR$/Semaine9-AbreBinaire/Semaine9-AbreBinaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testes/testes.iml" filepath="$PROJECT_DIR$/testes/testes.iml" />
+    </modules>
+  </component>
+</project>
